@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="D:/Eclipse/WorkSpace2/JDBC_Project/src/commons-lang3-3.8.1.jar"/>
+	<classpathentry kind="lib" path="D:/Eclipse/WorkSpace2/JDBC_Project/src/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="D:/Eclipse/WorkSpace2/JDBC_Project/src/hsqldb-2.5.0.jar"/>
+	<classpathentry kind="lib" path="D:/Eclipse/WorkSpace2/JDBC_Project/src/jackcess-3.0.1.jar" sourcepath="src"/>
+	<classpathentry kind="lib" path="D:/Eclipse/WorkSpace2/JDBC_Project/src/ucanaccess-5.0.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
